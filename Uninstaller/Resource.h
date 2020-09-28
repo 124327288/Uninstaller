@@ -17,7 +17,7 @@
 #ifndef IDC_STATIC
 #define IDC_STATIC				-1
 #endif
-// Следующие стандартные значения для новых объектов
+// ж–°еЇ№и±Ўзљ„й¦–йЂ‰й»и®¤еЂј
 //
 #ifdef APSTUDIO_INVOKED
 #ifndef APSTUDIO_READONLY_SYMBOLS
